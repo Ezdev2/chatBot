@@ -17,8 +17,8 @@ This project features a simple chatbot implemented in Python using the ChatterBo
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/chatbot-project.git
-   cd chatbot-project
+   git clone https://github.com/Ezdev2/chatBot.git
+   cd chatBot
    ```
 
 2. **Install Dependencies:**
@@ -28,7 +28,7 @@ This project features a simple chatbot implemented in Python using the ChatterBo
 
 3. **Run the ChatBot:**
    ```bash
-   python chatbot.py
+   python chatBot.py
    ```
 
 4. **Interact:**

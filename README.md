@@ -13,6 +13,14 @@ This project features a simple chatbot implemented in Python using the ChatterBo
 - **Context-Aware Responses:** Provides intelligent responses based on pre-learned patterns.
 - **Customizable:** Extend and customize the chatbot for specific domains or use cases.
 
+## Dépendances
+
+Assurez-vous d'avoir les dépendances suivantes installées avant d'exécuter le code.
+
+- Python 3.9 (ou une version compatible)
+- PyTorch 1.9.0
+- Transformers 4.9.2
+
 ## Getting Started
 
 1. **Clone the Repository:**
@@ -20,7 +28,7 @@ This project features a simple chatbot implemented in Python using the ChatterBo
    git clone https://github.com/Ezdev2/chatBot.git
    cd chatBot
    ```
-
+   
 2. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
